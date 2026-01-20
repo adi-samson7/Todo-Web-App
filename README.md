@@ -6,12 +6,12 @@ A simple and intuitive Todo Web Application built with Streamlit. This app helps
 
 https://adi-samson7-todo-web-app-web-evde2q.streamlit.app/
 
-📌 Features
+## 📌 Features
 
-➕ Add tasks with ease
-🗑️ Remove tasks when done
-🔄 Real-time updates without page refresh
-🧠 Minimal and intuitive UI
+- ➕ Add tasks with ease  
+- 🗑️ Remove tasks when done  
+- 🔄 Real-time updates without page refresh  
+- 🧠 Minimal and intuitive UI
 
 🧱 Built With:
 
@@ -41,6 +41,7 @@ streamlit run web.py
 
 
 ⚙️ Deployment
+
 The app is deployed using Streamlit Community Cloud.
 
 💡 Screenshots
