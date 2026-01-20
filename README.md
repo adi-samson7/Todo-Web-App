@@ -52,15 +52,15 @@ streamlit run web.py
 ```
 
 
-##⚙️ Deployment
+#⚙️ Deployment
 
 The app is deployed using Streamlit Community Cloud.
 
-##💡 Screenshots
+#💡 Screenshots
 
 <img width="1920" height="838" alt="Screenshot 2026-01-20 152810" src="https://github.com/user-attachments/assets/010af5bc-6bb1-4c30-a1c8-7782fb147301" />
 
 
-##📄 License
+#📄 License
 
 This project is licensed under the MIT License.
