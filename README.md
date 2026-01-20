@@ -59,6 +59,10 @@ The app is deployed using Streamlit Community Cloud.
 ## 💡 Screenshots
 
 <img width="1920" height="838" alt="Screenshot 2026-01-20 152810" src="https://github.com/user-attachments/assets/010af5bc-6bb1-4c30-a1c8-7782fb147301" />
+<img width="962" height="787" alt="Screenshot 2026-01-20 155602" src="https://github.com/user-attachments/assets/665950d0-7586-4c8a-ba77-93cdd60a305f" />
+<img width="1131" height="824" alt="Screenshot 2026-01-20 155116" src="https://github.com/user-attachments/assets/b106e29e-1b30-4230-8550-f79d317d62d3" />
+
+
 
 
 ## 📄 License
