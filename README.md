@@ -9,50 +9,38 @@ https://adi-samson7-todo-web-app-web-evde2q.streamlit.app/
 📌 Features
 
 ➕ Add tasks with ease
-
 🗑️ Remove tasks when done
-
 🔄 Real-time updates without page refresh
-
 🧠 Minimal and intuitive UI
 
-🧱 Built With
+🧱 Built With:
 
 Streamlit — For UI and web deployment
-
 Python — Backend logic
 
 
 🛠️ How It Works
 
 Enter a task in the input field.
-
 Click Enter to save it to your list.
-
 Mark tasks as done which deletes them when completed.
-
 Changes update instantly in the UI.
 
 
-🧰 Requirements
+🧰 Requirements:
 
 Python 3.7+
-
 Streamlit
 
 💻 Installation
 
-git clone https://github.com/yourusername/your-repo-name.git
-
-cd your-repo-name
-
+git clone https://github.com/adi-samson7/Todo-Web-App.git
+cd Todo-Web-App
 pip install -r requirements.txt
-
-streamlit run gray.py
+streamlit run web.py
 
 
 ⚙️ Deployment
-
 The app is deployed using Streamlit Community Cloud.
 
 💡 Screenshots
